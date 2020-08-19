@@ -1,7 +1,7 @@
 # Connect Announcer
 Simple SourceMod plugin to announce (or to not announce) player & staff connects/disconnects. Most of the dozens of available connect/disconnect announcers are bad, and this one probably is too - it just happens to fit our community's needs.
 
-Aside from a standardized and customizable connect and disconnect message (see translations), we found it prudent to have an easy switch for enabling and disabling connect/disconnect messages for our staff team. This is especially handy for responding to calladmins to catch rule breakers without giving them a heads up of connecting staff.
+Aside from a standardized and customizable connect and disconnect message (see translations), we found it prudent to have an easy switch for enabling and disabling connect/disconnect messages for our staff team. This is especially handy for responding to calladmins to catch rule breakers without giving them a heads up of connecting staff, or letting everyone know that "hey the admin is gone, let's act up now". This plugin allows admins to still view disconnects of all players and their fellow staff if you so choose.
 
 ## ConVars
 `sm_cannouncer_connect_enable` - Enable (1)/Disable (0) connect messages  

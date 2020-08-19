@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"AdminConnect"
+	{
+		"#format"	"{1:N},{2:s},{3:s}"
+		"en"		"Admin {darkred}{1} {default}<{lightgreen}{2}{default}> connected from {lightgreen}{3}"
+	}
+	"ModeratorConnect"
+	{
+		"#format"	"{1:N},{2:s},{3:s}"
+		"en"		"Moderator {blue}{1} {default}<{lightgreen}{2}{default}> connected from {lightgreen}{3}"
+	}
+	"PlayerConnect"
+	{
+		"#format"	"{1:N},{2:s},{3:s}"
+		"en"		"{green}{1} {default}<{lightgreen}{2}{default}> connected from {lightgreen}{3}"
+	}
+	"PlayerDisconnect"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{green}{1} {default}<{lightgreen}{2}{default}> disconnected ({3})"
+	}
+}
